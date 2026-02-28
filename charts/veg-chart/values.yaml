@@ -1,4 +1,4 @@
-namespace: murali-ns
+namespace: vasist-ns
 
 #configmap details
 configmap:
